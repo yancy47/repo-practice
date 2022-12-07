@@ -1,0 +1,77 @@
+<style type="text/css">
+		body{
+			background-color: peachpuff;
+		}
+		h2{
+			color: #5a6457;
+			text-decoration: underline;
+			text-align: center;
+		}
+		h3{
+			color: saddlebrown;
+			text-align: center;
+		}
+		p{
+			color: darkblue;
+			font-size: 14pt;
+		}
+		a{
+			font-size: small;
+			color: purple;
+			text-decoration: none;
+		}
+		ol{
+			font-style: italic;
+			color: darkblue;
+		}
+		#yancyList{
+			color:green;
+		}
+		.favList{
+			text-decoration: underline;
+		}
+
+		#div1{
+			background-color: #e6c4a7;
+		}
+		#div2{
+			background-color: #ccae94;
+		}
+		#div3{
+			background-color: #b39982;
+		}
+		#div4{
+			background-color: #99836f;
+		}
+
+		#div1, #div2, #div3, #div4 {
+			border: dashed;
+		}
+
+		#div1, #div2, #div3, #div4 {
+			position: relative;
+		}
+
+
+		table{
+			color: darkblue;
+			text-align: center;
+		} 
+		form{
+			padding: 15px;
+			font-style: italic;
+			font-weight: 900px;
+			color: darkblue;
+		}
+		input [type=button] {
+			color:black;
+			padding: 5px;
+		} 
+		*{
+			margin:0;
+			padding:0;
+			border:0;
+		}
+			
+</style>
+
